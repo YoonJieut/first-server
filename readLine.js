@@ -7,3 +7,5 @@ rl.question('favorite food?', function(answer){
   console.log(`${answer}로 대답했습니다.`)
   rl.close();
 });
+
+
