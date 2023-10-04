@@ -5,7 +5,6 @@
 
 const http = require('http');
 const fs = require('fs');
-const readLine = require('node:readline');
 
 /**
  * http 모듈은 다양한 메서드들을 지원함
